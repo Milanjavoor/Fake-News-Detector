@@ -93,9 +93,6 @@ Scikit-Learn
 Pickle
 Installation
 
-Install required packages:
-
-pip install tensorflow pandas numpy matplotlib scikit-learn
 
 Training
 
